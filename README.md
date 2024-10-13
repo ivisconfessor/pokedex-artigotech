@@ -59,15 +59,15 @@
 
 ## 🚀 Tecnologias usadas:
 
-✔️ ReactJS
-
-✔️ JSX
+✔️ HTML
 
 ✔️ CSS
 
 ✔️ JavaScript
 
-✔️ API TMDB
+✔️ PokéAPI
+
+✔️ Consumo de APIs
 
 </div>
 
